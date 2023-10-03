@@ -1,0 +1,9 @@
+.flex-se-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    display: inline-block;
+
+}
